@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitjsoriano
+- 👋 Hi, I’m Jerome Soriano, a Backend Web Developer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning angular, laravel, tailwindcss
 - 💞️ I’m looking to collaborate on web development projects
